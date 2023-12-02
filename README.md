@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h2 align="center" .element: style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap:10px;">  <img src="https://images.sympla.com.br/654906adc16bc.png" height="40" /> Projeto - (?) - Hackaflix</h2>
+<h2 align="center" .element: style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap:10px;">  <img src="https://images.sympla.com.br/654906adc16bc.png" height="40" /> Projeto - ConVem Cooperativa - Hackaflix</h2>
 
 ###
 
-<p align="center">Bem-vindo ao repositório do Projeto (?) desenvolvido durante o Hackaflix 2023!</p>
+<p align="center">Bem-vindo ao repositório do Projeto ConVem Cooperativa desenvolvido durante o Hackaflix 2023!</p>
 
 ###
 
