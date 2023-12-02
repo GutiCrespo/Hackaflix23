@@ -332,12 +332,12 @@ export const ListItem = () => {
           </h2>
           <tr>
             <td className="pr-10">Valor Atual</td>
-            <td>R$ {currentoldprice}</td>
+            <td>R${currentoldprice}</td>
           </tr>
           <hr />
           <tr>
             <td className="pr-10">Desconto Aplicado</td>
-            <td>{currentdiscont}</td>
+            <td>{currentdiscont}%</td>
           </tr>
           <hr />
           <tr>
@@ -352,7 +352,7 @@ export const ListItem = () => {
           <hr />
           <tr>
             <td className="pr-10">Valor sem Desconto</td>
-            <td>R$ {currentprice}</td>
+            <td>R${currentprice}</td>
           </tr>
         </div>
       </Modal>
