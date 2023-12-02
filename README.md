@@ -4,7 +4,8 @@
 
 ###
 
-<p align="center">Bem-vindo ao repositório do Projeto ConVem Cooperativa desenvolvido durante o Hackaflix 2023!</p>
+<p align="center">Bem-vindo ao repositório do Projeto ConVem Cooperativa
+ desenvolvido durante o Hackaflix 2023!</p>
 
 ###
 
